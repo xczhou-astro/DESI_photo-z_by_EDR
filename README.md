@@ -6,7 +6,7 @@ Paper link: https://academic.oup.com/mnras/article/536/3/2260/7919747
 
 ## dataset
 
-Dataset includes the scripts to extract galaxy images from DESI DR9 data
+Dataset includes the scripts to extract galaxy images from DESI DR9 data. 
 
 ## Train
 
