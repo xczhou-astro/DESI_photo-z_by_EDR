@@ -4,6 +4,10 @@ Relevant code for "Estimating Photometric Redshifts for Galaxies from the DESI L
 
 Paper link: https://academic.oup.com/mnras/article/536/3/2260/7919747
 
+## dataset
+
+Dataset includes the scripts to extract galaxy images from DESI DR9 data
+
 ## Train
 
 Train includes the scripts for training the Bayesian neural networks to estimate photo-z from galaxy images in $g$, $r$, $z$, $W1$ and $W2$ bands. 
